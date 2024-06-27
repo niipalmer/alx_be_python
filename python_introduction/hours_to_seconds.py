@@ -1,6 +1,6 @@
 # variable
 hours = 2
-seconds = 60*60
+seconds = hours * 3600
 
 # output
-print(f"{hours} hour(s) is {hours * seconds} seconds.")
+print(f"{hours} hour(s) is {seconds} seconds.")
