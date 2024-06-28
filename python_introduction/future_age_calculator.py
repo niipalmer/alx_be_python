@@ -1,5 +1,5 @@
 # Variable
-current_age = int(input("How old are you? "))
+current_age = int(input("How old are you?"))
 
 # User's age in the year 2050
 future_year = 2050
